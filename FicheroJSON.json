@@ -1,0 +1,1153 @@
+[
+{
+  "name": "Whatever Happened To Baby Jane?",
+  "year": 1962,
+  "runtime": 134,
+  "categories": [
+    "drama",
+    "horror",
+    "thriller"
+  ],
+  "release-date": "1962-10-31",
+  "director": {
+  "name": "Robert Aldrich",
+  "birthname": "Robert Aldrich",
+  "birthdate": "1918-08-09",
+  "birthplace": "Cranston, Rhode Island, USA"
+},
+  "writer": [
+    "Henry Farrell",
+    "Lukas Heller"
+  ],
+  "actors": [
+    "Bette Davis",
+    "Joan Crawford",
+    "Victor Buono",
+    "Maidie Norman"
+  ],
+  "storyline": "A former child star torments her paraplegic sister in their decaying Hollywood mansion."
+},
+
+{
+  "name": "The Godfather",
+  "year": 1972,
+  "runtime": 177,
+  "categories": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "release-date": "1972-03-15",
+  "director": {
+  "name": "Francis Ford Coppola",
+  "birthname": "Francis Ford Coppola",
+  "birthdate": "1937-04-07",
+  "birthplace": "Detroit, Michigan, United States"
+},
+  "writer": [
+    "Mario Puzo",
+    "Francis Ford Coppola"
+  ],
+  "actors": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan",
+    "Robert Duvall",
+    "Diane Keaton",
+    "John Cazale",
+    "Talia Shire",
+    "Gianni Russo",
+    "Richard Castellano",
+    "Abe Vigoda",
+    "Al Lettieri",
+    "Sterling Hayden",
+    "Lenny Montana",
+    "Richard Conte",
+    "Al Martino",
+    "John Marley",
+    "Alex Rocco",
+    "Morgana King",
+    "Corrado Gaipa",
+    "Franco Citti",
+    "Angelo Infanti",
+    "Johnny Martino",
+    "Victor Rendina",
+    "Tony Giorgio",
+    "Simonetta Stefanelli",
+    "Richard Bright"
+  ],
+  "storyline": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen."
+},
+
+{
+  "name": "The Godfather: Part II",
+  "year": 1974,
+  "runtime": 200,
+  "categories": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "release-date": "1974-12-12",
+  "director": {
+  "name": "Francis Ford Coppola",
+  "birthname": "Francis Ford Coppola",
+  "birthdate": "1937-04-07",
+  "birthplace": "Detroit, Michigan, United States"
+},
+  "writer": [
+    "Francis Ford Coppola",
+    "Mario Puzo"
+  ],
+  "actors": [
+    "Al Pacino",
+    "Robert Duvall",
+    "Diane Keaton",
+    "Robert De Niro",
+    "John Cazale",
+    "Talia Shire",
+    "Lee Strasberg",
+    "John Megna",
+    "Michael V. Gazzo",
+    "Morgana King",
+    "Francesca De Sapio",
+    "G. D. Spradlin",
+    "Richard Bright",
+    "Tom Rosqui",
+    "Marianna Hill",
+    "Gastone Moschin",
+    "Troy Donahue",
+    "Joe Spinell",
+    "Dominic Chianese",
+    "Franco Corsaro",
+    "Frank Sivero",
+    "Bruno Kirby",
+    "John Aprea",
+    "Maria Carta",
+    "Giuseppe Sillato",
+    "Amerigo Tot",
+    "Ivonne Coll",
+    "Julian Voloshin",
+    "Fay Spain",
+    "Larry Guardino",
+    "Carmine Caridi",
+    "Danny Aiello",
+    "Leopoldo Trieste",
+    "Salvatore Po",
+    "Harry Dean Stanton",
+    "Roman Coppola"
+  ],
+  "storyline": "The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba."
+},
+
+{
+  "name": "Star Wars: Episode IV - A New Hope",
+  "year": 1977,
+  "runtime": 121,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1977-05-25",
+  "director": {
+  "name": "George Lucas",
+  "birthname": "George Walton Lucas Jr.",
+  "birthdate": "1944-05-14",
+  "birthplace": "Modesto, California, U.S."
+},
+  "writer": "George Lucas",
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher",
+    "Alec Guinness"
+  ]
+},
+
+{
+  "name": "Alien",
+  "year": 1979,
+  "runtime": 116,
+  "categories": [
+    "horror",
+    "sci-fi"
+  ],
+  "release-date": "1979-05-25",
+  "director": {
+  "name": "Ridley Scott",
+  "birthname": "Ridley Scott",
+  "birthdate": "1937-11-30",
+  "birthplace": "South Shields, County Durham, England"
+},
+  "writer": [
+    "Dan O'Bannon",
+    "Ronald Shusett"
+  ],
+  "actors": [
+    "Tom Skerritt",
+    "Sigourney Weaver",
+    "Veronica Cartwright",
+    "Harry Dean Stanton",
+    "John Hurt",
+    "Ian Holm",
+    "Yaphet Kotto",
+    "Bolaji Badejo",
+    "Helen Horton"
+  ],
+  "storyline": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun."
+},
+
+{
+  "name": "Star Wars: Episode V - The Empire Strikes Back",
+  "year": 1980,
+  "runtime": 124,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1980-06-20",
+  "director": {
+  "name": "George Lucas",
+  "birthname": "George Walton Lucas Jr.",
+  "birthdate": "1944-05-14",
+  "birthplace": "Modesto, California, U.S."
+},
+  "writer": "George Lucas",
+  "actors": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher",
+    "Alec Guinness"
+  ]
+},
+
+{
+  "name": "Indiana Jones: Raiders of the Lost Ark",
+  "year": 1981,
+  "runtime": 115,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "1981-06-12",
+  "director": {
+  "name": "Stephen Spielberg",
+  "birthname": "Steven Allan Spielberg",
+  "birthdate": "1946-12-18",
+  "birthplace": "Cincinatti, Ohio, USA"
+},
+  "writer": [
+    "Lawrence Kasdan",
+    "George Lucas"
+  ],
+  "actors": [
+    "Harrison Ford",
+    "Karen Allen",
+    "Paul Freeman"
+  ]
+},
+
+{
+  "name": "Blade Runner",
+  "year": 1982,
+  "runtime": 117,
+  "categories": [
+    "sci-fi",
+    "thriller"
+  ],
+  "release-date": "1982-09-09",
+  "director": {
+  "name": "Ridley Scott",
+  "birthname": "Ridley Scott",
+  "birthdate": "1937-11-30",
+  "birthplace": "South Shields, County Durham, England"
+  },
+  "writer": [
+    "Hampton Fancher",
+    "David Peoples",
+    "Philip K. Dick"
+  ],
+  "actors": [
+    "Harrison Ford",
+    "Sean Young",
+    "Roy Batty"
+  ],
+  "storyline": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+},
+
+{
+  "name": "The Terminator",
+  "year": 1984,
+  "runtime": 107,
+  "categories": [
+    "action",
+    "sci-fi"
+  ],
+  "description": "A human-looking indestructible cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.",
+  "release-date": "1984-10-26",
+  "director": {
+  "name": "James Cameron",
+  "birthname": "James Francis Cameron",
+  "birthdate": "1954-08-16",
+  "birthplace": "Kapuskasing, Ontario, Canada"
+},
+  "writer": [
+    "James Cameron",
+    "Gale Anne Hurd",
+    "William Wisher Jr."
+  ],
+  "actors": [
+    "Arnold Schwarzenegger",
+    "Michael Biehn",
+    "Linda Hamilton",
+    "Paul Winfield",
+    "Lance Henriksen",
+    "Rick Rossovich",
+    "Bess Motta",
+    "Earl Boen"
+  ]
+},
+
+{
+  "name": "Indiana Jones and the Temple of Doom",
+  "year": 1984,
+  "runtime": 118,
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "release-date": "1984-05-23",
+  "director": {
+  "name": "Stephen Spielberg",
+  "birthname": "Steven Allan Spielberg",
+  "birthdate": "1946-12-18",
+  "birthplace": "Cincinatti, Ohio, USA"
+},
+  "writer": [
+    "Willard Huyck",
+    "Gloria Katz"
+  ],
+  "actors": [
+    "Harrison Ford",
+    "Kate Capshaw",
+    "Jonathan Ke Quan"
+  ]
+},
+
+{
+  "name": "The Princess Bride",
+  "year": 1987,
+  "runtime": 98,
+  "categories": [
+    "adventure",
+    "family",
+    "fantasy",
+    "romance"
+  ],
+  "release-date": "1987-10-09",
+  "director": {
+  "name": "Rob Reiner",
+  "birthname": "Robert Reiner",
+  "birthdate": "1947-03-06",
+  "birthplace": "New York, NY, USA"
+},
+  "writer": "William Goldman",
+  "actors": [
+    "Cary Elwes",
+    "Mandy Patinkin",
+    "Chris Sarandon",
+    "Christopher Guest",
+    "Wallace Shawn",
+    "André the Giant",
+    "Fred Savage",
+    "Robin Wright",
+    "Peter Falk",
+    "Peter Cook",
+    "Mel Smith",
+    "Carol Kane",
+    "Billy Crystal",
+    "Anne Dyson",
+    "Margery Mason"
+  ],
+  "storyline": "While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride."
+},
+
+{
+  "name": "Indiana Jones and the Last Crusade",
+  "year": 1989,
+  "runtime": 127,
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "release-date": "1989-05-24",
+  "director": {
+  "name": "Stephen Spielberg",
+  "birthname": "Steven Allan Spielberg",
+  "birthdate": "1946-12-18",
+  "birthplace": "Cincinatti, Ohio, USA"
+},
+  "writer": [
+    "Jeffrey Boam",
+    "George Lucas"
+  ],
+  "actors": [
+    "Harrison Ford",
+    "Sean Connery",
+    "Alison Doody"
+  ]
+},
+
+{
+  "name": "The Godfather: Part III",
+  "year": 1990,
+  "runtime": 162,
+  "categories": [
+    "action",
+    "crime",
+    "drama"
+  ],
+  "release-date": "1990-12-20",
+  "director": {
+  "name": "Francis Ford Coppola",
+  "birthname": "Francis Ford Coppola",
+  "birthdate": "1937-04-07",
+  "birthplace": "Detroit, Michigan, United States"
+},
+  "writer": [
+    "Francis Ford Coppola",
+    "Mario Puzo"
+  ],
+  "actors": [
+    "Al Pacino",
+    "Andy García",
+    "Diane Keaton",
+    "Talia Shire",
+    "Sofia Coppola",
+    "Eli Wallach",
+    "George Hamilton",
+    "Joe Mantegna",
+    "Richard Bright",
+    "Bridget Fonda",
+    "Raf Vallone",
+    "Franc D'Ambrosio",
+    "Donal Donnelly",
+    "Helmut Berger",
+    "Don Novello",
+    "John Savage",
+    "Mario Donatone",
+    "Vittorio Duse",
+    "Enzo Robutti",
+    "Al Martino"
+  ],
+  "storyline": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing."
+},
+
+{
+  "name": "Home Alone",
+  "year": 1990,
+  "runtime": 102,
+  "categories": [
+    "comedy",
+    "family"
+  ],
+  "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+  "release-date": "1990-11-16",
+  "director": {
+  "name": "Chris Columbus",
+  "birthname": "Chris Joseph Columbus",
+  "birthdate": "1958-09-10",
+  "birthplace": "Spangler, Pennsylvania, USA"
+},
+  "writer": [
+    "John Hughes"
+  ],
+  "actors": [
+    "Macaulay Culkin",
+    "Joe Pesci",
+    "Daniel Stern",
+    "John Heard",
+    "Catherine O'Hara"
+  ],
+  "storyline": "It is Christmas time and the McCallister family is preparing for a vacation in Paris, France. But the youngest in the family named Kevin got into a scuffle with his older brother Buzz and was sent to his room which is on the third floor of his house. Then, the next morning, while the rest of the family was in a rush to make it to the airport on time, they completely forgot about Kevin who now has the house all to himself. Being home alone was fun for Kevin, having a pizza all to himself, jumping on his parents' bed, and making a mess. Then, Kevin discovers about two burglars, Harry and Marv, about to rob his house on Christmas Eve. Kevin acts quickly by wiring his own house with makeshift booby traps to stop the burglars and to bring them to justice."
+},
+
+{
+  "name": "Terminator 2: Judgment Day",
+  "year": 1991,
+  "runtime": 137,
+  "categories": [
+    "action",
+    "sci-fi",
+    "thriller"
+  ],
+  "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.",
+  "release-date": "1991-07-03",
+  "director": {
+  "name": "James Cameron",
+  "birthname": "James Francis Cameron",
+  "birthdate": "1954-08-16",
+  "birthplace": "Kapuskasing, Ontario, Canada"
+},
+  "writer": [
+    "James Cameron",
+    "William Wisher Jr."
+  ],
+  "actors": [
+    "Arnold Schwarzenegger",
+    "Edward Furlong",
+    "Linda Hamilton",
+    "Robert Patrick",
+    "Earl Boen",
+    "Joe Morton",
+    "S. Epatha Merkerson",
+    "Castulo Guerra",
+    "Danny Cooksey",
+    "Jenette Goldstein",
+    "Xander Berkeley"
+  ]
+},
+
+{
+  "name": "Home Alone 2: Lost in New York",
+  "year": 1992,
+  "runtime": 120,
+  "categories": [
+    "comedy",
+    "family",
+    "adventure"
+  ],
+  "description": "One year after Kevin was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself in New York City, and the same criminals are not far behind.",
+  "release-date": "1992-11-20",
+  "director": {
+  "name": "Chris Columbus",
+  "birthname": "Chris Joseph Columbus",
+  "birthdate": "1958-09-10",
+  "birthplace": "Spangler, Pennsylvania, USA"
+},
+  "writer": [
+    "John Hughes"
+  ],
+  "actors": [
+    "Macaulay Culkin",
+    "Joe Pesci",
+    "Daniel Stern",
+    "John Heard",
+    "Catherine O'Hara",
+    "Tim Curry",
+    "Brenda Fricker",
+    "Donald Drumpf"
+  ],
+  "storyline": "Kevin McCallister is back. But this time he's in New York City with enough cash and credit cards to turn the Big Apple into his very own playground. But Kevin won't be alone for long. The notorious Wet Bandits, Harry and Marv, still smarting from their last encounter with Kevin, are bound for New York too, plotting a huge holiday heist! Kevin's ready to welcome them with more battery of booby traps the bumbling bandits will never forget!"
+},
+
+{
+  "name": "Jurassic Park",
+  "year": 1993,
+  "runtime": 127,
+  "categories": [
+    "adventure",
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "1993-06-11",
+  "director": {
+  "name": "Stephen Spielberg",
+  "birthname": "Steven Allan Spielberg",
+  "birthdate": "1946-12-18",
+  "birthplace": "Cincinatti, Ohio, USA"
+},
+  "writer": [
+    "Michael Crichton",
+    "David Koepp"
+  ],
+  "actors": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum"
+  ],
+  "storyline": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
+},
+
+{
+    "name": "Schindlers List",
+    "year": 1994,
+    "runtime": 195,
+    "categories": [
+      "biography",
+      "drama",
+      "history"
+    ],
+    "release-date": "1994-02-04",
+    "director": {
+  "name": "Stephen Spielberg",
+  "birthname": "Steven Allan Spielberg",
+  "birthdate": "1946-12-18",
+  "birthplace": "Cincinatti, Ohio, USA"
+},
+    "writer": [
+      "Thomas Keneally",
+      "Steven Zaillian"
+    ],
+    "actors": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "storyline": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans."
+},
+
+{
+  "name": "The Lost World: Jurassic Park",
+  "year": 1997,
+  "runtime": 129,
+  "categories": [
+    "adventure",
+    "action",
+    "sci-fi"
+  ],
+  "release-date": "1997-05-23",
+  "director": {
+  "name": "Stephen Spielberg",
+  "birthname": "Steven Allan Spielberg",
+  "birthdate": "1946-12-18",
+  "birthplace": "Cincinatti, Ohio, USA"
+},
+  "writer": [
+    "Michael Crichton",
+    "David Koepp"
+  ],
+  "actors": [
+    "Jeff Goldblum",
+    "Julianne Moore",
+    "Pete Postlethwaite"
+  ],
+  "storyline": "Four years after the failure of Jurassic Park on Isla Nublar, John Hammond reveals to Ian Malcolm that there was another island (\"Site B\") on which dinosaurs were bred before being transported to Isla Nublar. Left alone since the disaster, the dinosaurs have flourished, and Hammond is anxious that the world see them in their \"natural\" environment before they are exploited."
+},
+
+{
+  "name": "Star Wars: Episode I - The Phantom Menace",
+  "year": 1999,
+  "runtime": 136,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "1999-05-19",
+  "director": {
+  "name": "George Lucas",
+  "birthname": "George Walton Lucas Jr.",
+  "birthdate": "1944-05-14",
+  "birthplace": "Modesto, California, U.S."
+},
+  "writer": "George Lucas",
+  "actors": [
+    "Liam Neeson",
+    "Ewan McGregor",
+    "Natalie Portman"
+  ]
+},
+
+{
+  "name": "Fight Club",
+  "year": 1999,
+  "runtime": 139,
+  "categories": [
+    "drama"
+  ],
+  "release-date": "1999-10-15",
+  "director": {
+  "name": "David Fincher",
+  "birthname": "David Andrew Leo Fincher",
+  "birthdate": "1962-08-28",
+  "birthplace": "Denver, Colorado, United States"
+},
+  "writer": [
+    "Chuck Palahniuk",
+    "Jim Uhls"
+  ],
+  "actors": [
+    "Edward Norton",
+    "Brad Pitt",
+    "Meat Loaf",
+    "Zach Grenier",
+    "Helena Bonham Carter"
+  ],
+  "storyline": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention."
+},
+
+{
+  "name": "Memento",
+  "year": 2001,
+  "runtime": 113,
+  "categories": [
+    "thriller",
+    "crime",
+    "film noir",
+    "mystery",
+    "drama"
+  ],
+  "release-date": "2001-09-05",
+  "director": {
+  "name": "Christopher Nolan",
+  "birthname": "Christopher Edward Nolan",
+  "birthdate": "1970-07-30",
+  "birthplace": "Westminster, London, England"
+},
+  "writer": [
+    "Suzanne Todd",
+    "Jennifer Todd"
+  ],
+  "actors": [
+    "Guy Pearce",
+    "Carrie-Anne Moss",
+    "Joe Pantoliano",
+    "Mark Boone Junior",
+    "Stephen Tobolowsky",
+    "Harriet Sansom Harris",
+    "Callum Keith Rennie",
+    "Larry Holden",
+    "Jorja Fox"
+  ],
+  "storyline": "Leonard (Guy Pearce) is tracking down the man who raped and murdered his wife. The difficulty, however, of locating his wife's killer is compounded by the fact that he suffers from a rare, untreatable form of memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why."
+},
+
+{
+  "name": "Harry Potter and the Sorcerer's Stone",
+  "year": 2001,
+  "runtime": 152,
+  "categories": [
+    "adventure",
+    "family",
+    "fantasy"
+  ],
+  "release-date": "2001-11-16",
+  "director": {
+  "name": "Chris Columbus",
+  "birthname": "Chris Joseph Columbus",
+  "birthdate": "1958-09-10",
+  "birthplace": "Spangler, Pennsylvania, USA"
+},
+  "writer": [
+    "J.K. Rowling",
+    "Steve Kloves"
+  ],
+  "actors": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Richard Harris"
+  ],
+  "storyline": "At Hogwarts School of Witchcraft and Wizardry, Harry embarks on the adventure of a lifetime. He learns the high-flying sport Quidditch and plays a thrilling game with living chess pieces on his way to face a Dark Wizard bent on destroying him."
+},
+
+{
+  "name": "Star Wars: Episode II - Attack of the Clones",
+  "year": 2002,
+  "runtime": 142,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2002-05-16",
+  "director": {
+  "name": "George Lucas",
+  "birthname": "George Walton Lucas Jr.",
+  "birthdate": "1944-05-14",
+  "birthplace": "Modesto, California, U.S."
+},
+  "writer": [
+    "George Lucas",
+    "Jonathan Hales"
+  ],
+  "actors": [
+    "Ewan McGregor",
+    "Natalie Portman",
+    "Hayden Christensen"
+  ]
+},
+
+{
+  "name": "Harry Potter and the Chamber of Secrets",
+  "year": 2002,
+  "runtime": 161,
+  "categories": [
+    "adventure",
+    "family",
+    "fantasy"
+  ],
+  "release-date": "2002-11-15",
+  "director": {
+  "name": "Chris Columbus",
+  "birthname": "Chris Joseph Columbus",
+  "birthdate": "1958-09-10",
+  "birthplace": "Spangler, Pennsylvania, USA"
+},
+  "writer": [
+    "J.K. Rowling",
+    "Steve Kloves"
+  ],
+  "actors": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson"
+  ],
+  "storyline": "The second installment in the Harry Potter series finds young wizard Harry Potter (Daniel Radcliffe) and his friends Ron Weasley (Rupert Grint) and Hermione Granger (Emma Watson) facing new challenges during their second year at Hogwarts School of Witchcraft and Wizardry as they try to uncover a dark force that is terrorizing the school."
+},
+
+{
+  "name": "Star Wars: Episode III - Revenge of the Sith",
+  "year": 2005,
+  "runtime": 140,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2005-05-19",
+  "director": {
+  "name": "George Lucas",
+  "birthname": "George Walton Lucas Jr.",
+  "birthdate": "1944-05-14",
+  "birthplace": "Modesto, California, U.S."
+},
+  "writer": "George Lucas",
+  "actors": [
+    "Ewan McGregor",
+    "Natalie Portman",
+    "Hayden Christensen"
+  ]
+},
+
+{
+  "name": "Batman Begins",
+  "year": 2005,
+  "runtime": 128,
+  "categories": [
+    "adventure",
+    "action"
+  ],
+  "release-date": "2005-06-15",
+  "director": {
+  "name": "Christopher Nolan",
+  "birthname": "Christopher Edward Nolan",
+  "birthdate": "1970-07-30",
+  "birthplace": "Westminster, London, England"
+},
+  "writer": [
+    "Bob Kane",
+    "David S. Goyer",
+    "Christopher Nolan"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Michael Caine",
+    "Ken Watanabe"
+  ],
+  "storyline": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it."
+},
+
+{
+  "name": "The Prestige",
+  "year": 2006,
+  "runtime": 130,
+  "categories": [
+    "thriller",
+    "sci-fi"
+  ],
+  "release-date": "2006-10-17",
+  "director": {
+  "name": "Christopher Nolan",
+  "birthname": "Christopher Edward Nolan",
+  "birthdate": "1970-07-30",
+  "birthplace": "Westminster, London, England"
+},
+  "writer": [
+    "Christopher Nolan",
+    "Jonathan Nolan"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Hugh Jackman",
+    "Scarlett Johansson"
+  ],
+  "storyline": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but with terrible consequences."
+},
+
+{
+  "name": "The Fast and the Furious: Tokyo Drift",
+  "year": 2006,
+  "runtime": 104,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2006-06-16",
+  "director": {
+  "name": "Justin Lin",
+  "birthname": "Yi-Bin Lin",
+  "birthdate": "1973-10-11",
+  "birthplace": "Taipei, Taiwan"
+},
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Lucas Black",
+    "Nathalie Kelley",
+    "Sung Kang",
+    "Bow Wow",
+    "Brian Tee"
+  ],
+  "storyline": "To avoid jail sentence in America,A young boy moves to Tokyo with his father and becomes strong competitor in realm of drift racing."
+},
+
+{
+  "name": "Mission Impossible III",
+  "year": 2006,
+  "runtime": 126,
+  "categories": [
+    "action",
+    "adventure",
+    "thriller"
+  ],
+  "release-date": "2006-05-05",
+  "director": {
+  "name": "J. J. Abrams",
+  "birthname": "Jeffrey Jacob Abrams",
+  "birthdate": "1966-06-27",
+  "birthplace": "New York, U.S"
+},
+  "writer": [
+    "Bruce Geller",
+    "Alex Kurtzman",
+    "Roberto Orci",
+    "J.J. Abrams"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Philip Seymour Hoffman",
+    "Ving Rhames"
+  ],
+  "storyline": "Agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fianceé in response."
+},
+
+{
+  "name": "Transformers",
+  "year": 2007,
+  "runtime": 144,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2007-07-03",
+  "director": {
+  "name": "Michael Bay",
+  "birthname": "Michael Benjamin Bay",
+  "birthdate": "1965-02-17",
+  "birthplace": "Los Angeles, California, USA"
+},
+  "writer": [
+    "Roberto Orci",
+    "Alex Kurtzman",
+    "John Rogers"
+  ],
+  "actors": [
+    "Shia LaBeouf",
+    "Megan Fox",
+    "Josh Duhamel",
+    "Tyrese Gibson"
+  ],
+  "storyline": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager."
+},
+
+{
+  "name": "Juno",
+  "year": 2007,
+  "runtime": 96,
+  "categories": [
+    "comedy",
+    "teen"
+  ],
+  "release-date": "2007-09-01",
+  "director": {
+  "name": "Jason Reitman",
+  "birthname": "Jason Reitmans",
+  "birthdate": "1977-10-09",
+  "birthplace": "Montreal, Quebec, Canada"
+},
+  "writer": [
+    "Diablo Cody"
+  ],
+  "actors": [
+    "Ellen Page",
+    "Michael Cera",
+    "Jennifer Garner",
+    "Jason Bateman",
+    "Allison Janney",
+    "J. K. Simmons"
+  ],
+  "storyline": "Sixteen-year-old Minnesota high-schooler Juno MacGuff discovers she is pregnant by her friend and longtime admirer, Paulie Bleeker."
+},
+
+{
+  "name": "The Dark Knight",
+  "year": 2008,
+  "runtime": 152,
+  "categories": [
+    "adventure",
+    "crime",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2008-07-18",
+  "director": {
+  "name": "Christopher Nolan",
+  "birthname": "Christopher Edward Nolan",
+  "birthdate": "1970-07-30",
+  "birthplace": "Westminster, London, England"
+},
+  "writer": [
+    "Jonathan Nolan",
+    "David S. Goyer",
+    "Christopher Nolan",
+    "Bob Kane"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "storyline": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+},
+
+{
+  "name": "Transformers: Revenge of the Fallen",
+  "year": 2009,
+  "runtime": 150,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2009-06-24",
+  "director": {
+  "name": "Michael Bay",
+  "birthname": "Michael Benjamin Bay",
+  "birthdate": "1965-02-17",
+  "birthplace": "Los Angeles, California, USA"
+},
+  "writer": [
+    "Ehren Kruger",
+    "Roberto Orci",
+    "Alex Kurtzman"
+  ],
+  "actors": [
+    "Shia LaBeouf",
+    "Megan Fox",
+    "Josh Duhamel"
+  ],
+  "storyline": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war."
+},
+
+{
+  "name": "Star Trek",
+  "year": 2009,
+  "runtime": 127,
+  "categories": [
+    "action",
+    "adventure",
+    "sci-fi"
+  ],
+  "release-date": "2009-05-08",
+  "director": {
+  "name": "J. J. Abrams",
+  "birthname": "Jeffrey Jacob Abrams",
+  "birthdate": "1966-06-27",
+  "birthplace": "New York, U.S"
+},
+  "writer": [
+    "Roberto Orci",
+    "Alex Kurtzman"
+  ],
+  "actors": [
+    "Chris Pine",
+    "Zachary Quinto",
+    "Simon Pegg"
+  ]
+},
+
+{
+  "name": "Sherlock Holmes",
+  "year": 2009,
+  "runtime": 128,
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2009-12-26",
+  "director": {
+  "name": "Guy Ritchie",
+  "birthname": "Guy Ritchie",
+  "birthdate": "1968-09-10",
+  "birthplace": "Hatfield, Hertfordshire, England"
+},
+  "writer": [
+    "Michael Robert Johnson",
+    "Anthony Peckham"
+  ],
+  "actors": [
+    "Robert Downey Jr.",
+    "Jude Law",
+    "Rachel McAdams"
+  ]
+},
+
+{
+  "name": "Fast & Furious",
+  "year": 2009,
+  "runtime": 107,
+  "categories": [
+    "action",
+    "crime",
+    "thriller"
+  ],
+  "release-date": "2009-04-03",
+  "director": {
+  "name": "Justin Lin",
+  "birthname": "Yi-Bin Lin",
+  "birthdate": "1973-10-11",
+  "birthplace": "Taipei, Taiwan"
+},
+  "writer": [
+    "Chris Morgan"
+  ],
+  "actors": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "Gal Gadot",
+    "Don Omar",
+    "Tego Calderon",
+    "John Ortiz",
+    "Laz Alonso"
+  ],
+  "storyline": "With Brian O'Conner back in FBI and Dominic Toretto on his side, he has to bring down a heroin importer."
+}]
+
+
+
+
+
+
+
